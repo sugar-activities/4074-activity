@@ -1,0 +1,310 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Khaled Hosny <khaledhosny@eglug.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-08 00:33-0400\n"
+"PO-Revision-Date: 2010-02-19 18:23+0300\n"
+"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Virtaal 0.5.2\n"
+"X-Poedit-Language: Arabic\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Poll"
+msgstr "استطلاع"
+
+#: i18n_misc_strings.py:1
+msgid "Lesson 1"
+msgstr "درس 1"
+
+#: i18n_misc_strings.py:2
+msgid "Lesson 2"
+msgstr "درس 2"
+
+#: i18n_misc_strings.py:3
+msgid "Lesson 3"
+msgstr "درس 3"
+
+#: i18n_misc_strings.py:4
+msgid "Lesson 4"
+msgstr "درس 4"
+
+#: i18n_misc_strings.py:5
+msgid "Introduction"
+msgstr "مقدمة"
+
+#: poll.py:162 poll.py:362
+msgid "Choose a Poll"
+msgstr "اختر استطلاعا"
+
+#: poll.py:167 poll.py:735
+msgid "Build a Poll"
+msgstr "أنشئ استطلاعا"
+
+#: poll.py:172 poll.py:819
+msgid "Settings"
+msgstr ""
+
+#: poll.py:177 poll.py:423 poll.py:1059
+msgid "Lesson Plans"
+msgstr "جدول الدروس"
+
+#: poll.py:322
+msgid "VOTE!"
+msgstr "صوّت"
+
+#: poll.py:324
+msgid "Poll Preview"
+msgstr "معاينة الاستطلاع"
+
+#: poll.py:394
+msgid "VOTE"
+msgstr "صوت"
+
+#: poll.py:396
+msgid "SEE RESULTS"
+msgstr "أظهر النتائج"
+
+#: poll.py:401
+msgid "DELETE"
+msgstr "احذف"
+
+#: poll.py:565
+msgid "votes"
+msgstr "الأصوات"
+
+#: poll.py:568
+#, python-format
+msgid "(%d votes left to collect)"
+msgstr ""
+
+#: poll.py:575 poll.py:1036
+msgid "Vote"
+msgstr "صوت"
+
+#: poll.py:581
+msgid "Edit Poll"
+msgstr "حرر الاستطلاع"
+
+#: poll.py:584
+msgid "Save Poll"
+msgstr "احفظ الاستطلاع"
+
+#: poll.py:631 poll.py:693 poll.py:928
+msgid "Poll Activity"
+msgstr ""
+
+#: poll.py:632
+msgid "To vote you have to select first one option"
+msgstr ""
+
+#: poll.py:663 poll.py:668
+msgid "Choose image"
+msgstr ""
+
+#: poll.py:690 poll.py:780
+msgid "Change Image"
+msgstr ""
+
+#: poll.py:694
+msgid "Your selection is not an image"
+msgstr ""
+
+#: poll.py:745
+msgid "Poll Title:"
+msgstr "عنوان الاستطلاع:"
+
+#: poll.py:753
+msgid "Question:"
+msgstr "سؤال:"
+
+#: poll.py:761
+msgid "Number of votes to collect:"
+msgstr "عدد الأصوات المجموعة:"
+
+#: poll.py:771
+#, python-format
+msgid "Answer %d:"
+msgstr ""
+
+#: poll.py:784
+msgid "Add Image"
+msgstr ""
+
+#: poll.py:793
+msgid "Step 1: Preview"
+msgstr "خطوة 1: عاين"
+
+#: poll.py:796
+msgid "Step 2: Save"
+msgstr "خطوة 2: احفظ"
+
+#: poll.py:827
+msgid "Show answers while voting"
+msgstr ""
+
+#: poll.py:832
+msgid "Remember last vote"
+msgstr ""
+
+#: poll.py:838
+msgid "Play a sound when make a vote"
+msgstr ""
+
+#: poll.py:845
+msgid "Use image in answer"
+msgstr ""
+
+#: poll.py:850
+msgid "Image Size: "
+msgstr ""
+
+#: poll.py:872
+msgid "Save"
+msgstr ""
+
+#: poll.py:929
+msgid "The settings have been saved"
+msgstr ""
+
+#: poll.py:964
+msgid "Favorite Color"
+msgstr "اللون المفضل"
+
+#: poll.py:966
+msgid "What is your favorite color?"
+msgstr "ماهو لونك المفضل؟"
+
+#: poll.py:970
+msgid "Orange"
+msgstr "برتقالي"
+
+#: poll.py:971
+msgid "None of the above"
+msgstr "لون آخر"
+
+#: poll.py:1037
+#, python-format
+msgid "Somebody voted on %s"
+msgstr "صوّت أحدهم على %s"
+
+#: poll.py:1056
+msgid "Close Lessons"
+msgstr "أغلق الدروس"
+
+#: poll.py:1144 poll.py:1173
+msgid "Joined"
+msgstr "انضم"
+
+#: poll.py:1177
+msgid "Left"
+msgstr "غادر"
+
+#: poll.py:1549 poll.py:1613
+msgid "New Poll"
+msgstr "استطلاع جديد"
+
+#: poll.py:1550 poll.py:1614
+#, python-format
+msgid "%(author)s shared a poll '%(title)s' with you."
+msgstr "شارك %(author)s استطلاعا '%(title)s' معك."
+
+#~ msgid "Answer"
+#~ msgstr "جواب"
+
+#~ msgid "Green"
+#~ msgstr "أخضر"
+
+#~ msgid "Red"
+#~ msgstr "أحمر"
+
+#~ msgid "Blue"
+#~ msgstr "أزرق"
+
+#~ msgid "Chinese (simplified)"
+#~ msgstr "صينية(مبسطة)"
+
+#~ msgid "Chinese (traditional)"
+#~ msgstr "صينية(تقليدية)"
+
+#~ msgid "Czech"
+#~ msgstr "تشيكية"
+
+#~ msgid "Danish"
+#~ msgstr "دنماركية"
+
+#~ msgid "Dutch"
+#~ msgstr "هولندية"
+
+#~ msgid "English"
+#~ msgstr "إنجليزية"
+
+#~ msgid "English - Great Britain"
+#~ msgstr "إنجليزية - بريطانية"
+
+#~ msgid "English - U.S."
+#~ msgstr "إنجليزية - أمريكية"
+
+#~ msgid "Finnish"
+#~ msgstr "فنلندية"
+
+#~ msgid "French"
+#~ msgstr "فرنسية"
+
+#~ msgid "German"
+#~ msgstr "ألمانية"
+
+#~ msgid "Hungarian"
+#~ msgstr "هنغارية"
+
+#~ msgid "Italian"
+#~ msgstr "ايطالية"
+
+#~ msgid "Japanese"
+#~ msgstr "يابانية"
+
+#~ msgid "Korean"
+#~ msgstr "كورية"
+
+#~ msgid "Norwegian"
+#~ msgstr "نرويجية"
+
+#~ msgid "Polish"
+#~ msgstr "بولندية"
+
+#~ msgid "Portuguese"
+#~ msgstr "برتغالية"
+
+#~ msgid "Portuguese - Brazilian"
+#~ msgstr "برتغالية - برازيلية"
+
+#~ msgid "Russian"
+#~ msgstr "روسية"
+
+#~ msgid "Slovak"
+#~ msgstr "سلافية"
+
+#~ msgid "Spanish"
+#~ msgstr "إسبانية"
+
+#~ msgid "Swedish"
+#~ msgstr "سويدية"
+
+#~ msgid "Turkish"
+#~ msgstr "تركية"
